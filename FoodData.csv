@@ -1,0 +1,228 @@
+Plant origin,Nuts and seeds,Oil seeds,Almond,Nut Allergy
+Plant origin,Fruits,Pome fruits,Apple,Oral Allergy Syndrome
+Plant origin,Fruits,Stone fruits,Apricot,Stone Fruit Allergy
+Plant origin,Vegetables,Composite vegetables,Artichoke,Insulin Allergy
+Plant origin,Vegetables,Liliaceous vegetables,Asparagus,Allium Allergy
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Avocado,Oral Allergy Syndrome
+Plant origin,Vegetables,Miscellaneous vegetables,Bamboo shoots,Histamine Allergy
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Banana,Banana Allergy
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Barley,Gluten Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Beans,Legume Allergy
+Plant origin,Fruits,Berries,Blackberry,Salicylate Allergy
+Plant origin,Fruits,Berries,Blueberry,Salicylate Allergy
+Animal origin,Aquatic animals,Fish,Bonito,Histamine Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Broad beans,Legume Allergy
+Plant origin,Vegetables,Cruciferous vegetables,Broccoli,Broccoli allergy
+Plant origin,Vegetables,Cruciferous vegetables,Brussels sprouts,Cruciferous Allergy
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Buckwheat,Gluten Allergy
+Plant origin,Vegetables,Composite vegetables,Burdock,Ragweed Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Butter beans,Legume Allergy
+Plant origin,Vegetables,Mushrooms,Button mushroom,Mushroom Allergy
+Plant origin,Vegetables,Cruciferous vegetables,Cabbage,Cruciferous Allergy
+Plant origin,Nuts and seeds,Seed for beverages,Cacao beans,
+Plant origin,Vegetables,Umbelliferous vegetables,Carrot,Hypersensitivity
+Animal origin,Terrestrial mammals,"Terrestrial mammals, edible offals","Cattle, edible offal",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, fat","Cattle, fat",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, kidney","Cattle, kidney",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, liver","Cattle, liver",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, muscle","Cattle, muscle",Alpha-gal Syndrome
+Plant origin,Vegetables,Cruciferous vegetables,Cauliflower,Cruciferous Allergy
+Plant origin,Vegetables,Umbelliferous vegetables,Celery,Hypersensitivity
+Plant origin,Fruits,Stone fruits,Cherry,Stone Fruit Allergy
+Plant origin,Nuts and seeds,Oil seeds,Chestnut,Nut Allergy
+Animal origin,Poultry,"Poultry, edible offals","Chicken, edible offal",Poultry Allergy
+Animal origin,Poultry,"Poultry, eggs","Chicken, eggs",Poultry Allergy
+Animal origin,Poultry,"Poultry, fat","Chicken, fat",Poultry Allergy
+Animal origin,Poultry,"Poultry, kidney","Chicken, kidney",Poultry Allergy
+Animal origin,Poultry,"Poultry, liver","Chicken, liver",Poultry Allergy
+Animal origin,Poultry,"Poultry, muscle","Chicken, muscle",Poultry Allergy
+Plant origin,Vegetables,Composite vegetables,Chicory,Insulin Allergy
+Plant origin,Vegetables,Cruciferous vegetables,Chinese cabbage,Cruciferous Allergy
+Plant origin,Nuts and seeds,Seed for beverages,Coffee beans,Ochratoxin Allergy
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Corn,Corn Allergy
+Plant origin,Nuts and seeds,Oil seeds,Cotton seeds,Seed Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Cow beans,Legume Allergy
+Plant origin,Fruits,Berries,Cranberry,Salicylate Allergy
+Animal origin,Aquatic animals,Shellfish,Crustaceans,Shellfish Allergy
+Plant origin,Vegetables,Cucurbitaceous vegetables,Cucumber ,
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Date,Oral Allergy Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, edible offals","Deer, edible offal",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, fat","Deer, fat",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, kidney","Deer, kidney",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, liver","Deer, liver",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, muscle","Deer, muscle",Alpha-gal Syndrome
+Animal origin,Poultry,"Poultry, edible offals","Duck, edible offal",Poultry Allergy
+Animal origin,Poultry,"Poultry, fat","Duck, fat",Poultry Allergy
+Animal origin,Poultry,"Poultry, kidney","Duck, kidney",Poultry Allergy
+Animal origin,Poultry,"Poultry, liver","Duck, liver",Poultry Allergy
+Animal origin,Poultry,"Poultry, muscle","Duck, muscle",Poultry Allergy
+Animal origin,Aquatic animals,Fish,Eel,Fish Allergy
+Plant origin,Vegetables,Solanceous vegetables,Egg plant,Nightshade Allergy
+Plant origin,Vegetables,Composite vegetables,Endive,Insulin Allergy
+Class,Type,Group,Food,Allergy
+Plant origin,Vegetables,Liliaceous vegetables,Garlic,Allium Allergy
+Plant origin,Vegetables,Cucurbitaceous vegetables,Ghrkin,
+Plant origin,Vegetables,Miscellaneous vegetables,Ginger,Histamine Allergy
+Plant origin,Nuts and seeds,Oil seeds,Ginkgo nut,Nut Allergy
+Animal origin,Aquatic animals,Fish,Globfish,Fish Allergy
+Animal origin,Terrestrial mammals,"Terrestrial mammals, edible offals","Goat, edible offal",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, fat","Goat, fat",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, kidney","Goat, kidney",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, liver","Goat, liver",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, muscle","Goat, muscle",Alpha-gal Syndrome
+Plant origin,Fruits,Grape,Grape,LTP Allergy
+Plant origin,Fruits,Citrus fruits,Grapefruit,Citrus Allergy
+Plant origin,Vegetables,Legumes vegetables,Green soybeans,Legume Allergy
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Guava,Oral Allergy Syndrome
+Animal origin,Bee products,Bee products,Honey,Honey Allergy
+Plant origin,Hop,Hop,Hop,Beer Allergy
+Animal origin,Aquatic animals,Fish,Horse Mackerel,Fish Allergy
+Animal origin,Terrestrial mammals,"Terrestrial mammals, edible offals","Horse, edible offal",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, fat","Horse, fat",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, kidney","Horse, kidney",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, liver","Horse, liver",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, muscle","Horse, muscle",Alpha-gal Syndrome
+Plant origin,Vegetables,Cruciferous vegetables,Horseradish,Cruciferous Allergy
+Plant origin,Fruits,Berries,Huckleberry,Salicylate Allergy
+Plant origin,Fruits,Pome fruits,Japanese pear,Oral Allergy Syndrome
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Japanese persimmon,
+Plant origin,Fruits,Stone fruits,Japanese plum,Stone Fruit Allergy
+Plant origin,Vegetables,Cruciferous vegetables,Kale,Cruciferous Allergy
+Plant origin,Vegetables,Legumes vegetables,Kidney beans with pods,Legume Allergy
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Kiwifruit,Oral Allergy Syndrome
+Plant origin,Vegetables,Potatoes,Konjac,Potato Allergy
+Plant origin,Vegetables,Cruciferous vegetables,Kyona,Cruciferous Allergy
+Plant origin,Vegetables,Liliaceous vegetables,Leek,Allium Allergy
+Plant origin,Fruits,Citrus fruits,Lemon,Citrus Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Lentil,Legume Allergy
+Plant origin,Vegetables,Composite vegetables,Lettuce ,LTP Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Lima beans,Legume Allergy
+Plant origin,Fruits,Citrus fruits,Lime,Citrus Allergy
+Plant origin,Fruits,Pome fruits,Loquat,Oral Allergy Syndrome
+Animal origin,Aquatic animals,Fish,Mackerel,Fish Allergy
+Plant origin,Vegetables,Cucurbitaceous vegetables,Makuwauri  melon,
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Mango,Oral Allergy Syndrome
+Plant origin,Vegetables,Cucurbitaceous vegetables,Melons,
+Animal origin,Terrestrial mammals,"Terrestrial mammals, milk",Milk,Mik Allergy/ Intolerance
+Mineral waters,Mineral waters,Mineral waters,Mineral waters,Aquagenic Urticaria
+Plant origin,Vegetables,Umbelliferous vegetables,Mitsuba,Hypersensitivity
+Plant origin,Fruits,Stone fruits,Mume plum,Stone Fruit Allergy
+Plant origin,Vegetables,Cruciferous vegetables,Mustard Spinach,Cruciferous Allergy
+Plant origin,Fruits,Stone fruits,Nectarine,Stone Fruit Allergy
+Plant origin,Vegetables,Liliaceous vegetables,Nira,Allium Allergy
+Plant origin,Vegetables,Miscellaneous vegetables,Okra,Histamine Allergy
+Plant origin,Vegetables,Liliaceous vegetables,Onion,Allium Allergy
+Plant origin,Fruits,Citrus fruits,Orange,Citrus Allergy
+Plant origin,Fruits,Citrus fruits,Orange pulp,Citrus Allergy
+Animal origin,Aquatic animals,Other aquatic animals,Other aquatic animals ,Fish Allergy
+Plant origin,Fruits,Berries,Other berries,Salicylate Allergy
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Other cereal grains,Gluten Allergy
+Plant origin,Fruits,Citrus fruits,Other citrus fruits,Citrus Allergy
+Plant origin,Vegetables,Composite vegetables,Other composite vegetables,
+Plant origin,Vegetables,Cruciferous vegetables,Other cruciferous vegetables,Cruciferous Allergy
+Plant origin,Vegetables,Cucurbitaceous vegetables,Other cucurbitaceous vegetables,
+Animal origin,Aquatic animals,Fish,Other fish,Fish Allergy
+Plant origin,Fruits,Other fruits,Other fruits,
+Plant origin,Spices and herbs,Herbs,Other herbs,
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Other legumes/pulses,Legume Allergy
+Plant origin,Vegetables,Liliaceous vegetables,Other liliaceous vegetables,Allium Allergy
+Plant origin,Vegetables,Mushrooms,Other mushrooms,Mushroom Allergy
+Plant origin,Nuts and seeds,Oil seeds,Other nuts,Nut Allergy
+Plant origin,Nuts and seeds,Oil seeds,Other oil seeds,
+Plant origin,Vegetables,Potatoes,Other potatoes,Potato Allergy
+Animal origin,Poultry,"Poultry, edible offals","Other poultry animals, edible offal",Poultry Allergy
+Animal origin,Poultry,"Poultry, fat","Other poultry animals, fat",Poultry Allergy
+Animal origin,Poultry,"Poultry, kidney","Other poultry animals, kidney",Poultry Allergy
+Animal origin,Poultry,"Poultry, liver","Other poultry animals, liver",Poultry Allergy
+Animal origin,Poultry,"Poultry, muscle","Other poultry animals, muscle",Poultry Allergy
+Animal origin,Poultry,"Poultry, eggs","Other poultry, eggs",Poultry Allergy
+Plant origin,Vegetables,Solanceous vegetables,Other solanceous vegetables,Nightshade Allergy
+Plant origin,Spices and herbs,Spices,Other spices,
+Animal origin,Terrestrial mammals,"Terrestrial mammals, edible offals","Other terrestrial mammals, edible offal",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, fat","Other terrestrial mammals, fat",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, kidney","Other terrestrial mammals, kidney",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, liver","Other terrestrial mammals, liver",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, muscle","Other terrestrial mammals, muscle ",Alpha-gal Syndrome
+Plant origin,Vegetables,Umbelliferous vegetables,Other umbelliferous vegetables,Hypersensitivity
+Plant origin,Vegetables,Other Vegetables,Other vegetables,
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Papaya,Oral Allergy Syndrome
+Plant origin,Vegetables,Umbelliferous vegetables,Parsley,Hypersensitivity
+Plant origin,Vegetables,Umbelliferous vegetables,Parsnip,Hypersensitivity
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Passion fruit,Oral Allergy Syndrome
+Plant origin,Fruits,Stone fruits,Peach,Stone Fruit Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,"Peanuts, dry",Peanut Allergy
+Plant origin,Fruits,Pome fruits,Pear,Oral Allergy Syndrome
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Peas,Legume Allergy
+Plant origin,Vegetables,Legumes vegetables,Peas with pods,Legume Allergy
+Plant origin,Nuts and seeds,Oil seeds,Pecan,Nut Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Pegia,Legume Allergy
+Plant origin,Spices and herbs,Herbs,Peppermint,Mint Allergy
+Animal origin,Aquatic animals,Fish,Percifomes,Fish Allergy
+Animal origin,Terrestrial mammals,"Terrestrial mammals, edible offals","Pig, edible offal",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, fat","Pig, fat",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, kidney","Pig, kidney",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, liver","Pig, liver",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, muscle","Pig, muscle",Alpha-gal Syndrome
+Plant origin,Fruits,Assorted tropical and sub-tropical fruits,Pineapple,Oral Allergy Syndrome
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Popcorn,Corn Allergy
+Plant origin,Vegetables,Potatoes,Potato,Potato Allergy
+Plant origin,Fruits,Stone fruits,Prune,Stone Fruit Allergy
+Plant origin,Vegetables,Cucurbitaceous vegetables,Pumpkin,
+Plant origin,Vegetables,Cruciferous vegetables,Qing-geng-cai,Cruciferous Allergy
+Plant origin,Fruits,Pome fruits,Quince,Oral Allergy Syndrome
+Plant origin,Vegetables,Cruciferous vegetables,Radish leaves,
+Plant origin,Vegetables,Cruciferous vegetables,Radish roots,Hypersensitivity
+Plant origin,Nuts and seeds,Oil seeds,Rapeseeds,Seed Allergy
+Plant origin,Fruits,Berries,Raspberry,Salicylate Allergy
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Rice,Rice Allergy
+Animal origin,Bee products,Bee products,Royal Jelly,Honey Allergy
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Rye,Gluten Allergy
+Plant origin,Nuts and seeds,Oil seeds,Safflower seeds,Seed Allergy
+Animal origin,Aquatic animals,Fish,Salmon,Fish Allergy
+Plant origin,Vegetables,Composite vegetables,Salsify,Insulin Allergy
+Plant origin,Spices and herbs,Spices,Sansho,Pepper Allergy
+Animal origin,Aquatic animals,Fish,Sea Bass,Fish Allergy
+Animal origin,Aquatic animals,Fish,Sea Bream,Fish Allergy
+Plant origin,Nuts and seeds,Oil seeds,Sesame seeds,Seed Allergy
+Plant origin,Vegetables,Liliaceous vegetables,Shallot,Allium Allergy
+Animal origin,Terrestrial mammals,"Terrestrial mammals, edible offals","Sheep, edible offal",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, fat","Sheep, fat",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, kidney","Sheep, kidney",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, liver","Sheep, liver",Alpha-gal Syndrome
+Animal origin,Terrestrial mammals,"Terrestrial mammals, muscle","Sheep, muscle",Alpha-gal Syndrome
+Animal origin,Aquatic animals,Shellfish,Shelled molluscs,Fish Allergy
+Plant origin,Vegetables,Mushrooms,Shiitake  mushroom,Mushroom Allergy
+Plant origin,Vegetables,Composite vegetables,Shungiku,Insulin Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Soybeans,Soy Allergy
+Plant origin,Spices and herbs,Herbs,Spearmint,Mint Allergy
+Plant origin,Vegetables,Miscellaneous vegetables,Spinach,Histamine Allergy
+Plant origin,Vegetables,Cucurbitaceous vegetables,Squash,
+Plant origin,Fruits,Berries,Strawberry,Salicylate Allergy
+Plant origin,Vegetables,Sugar sources,Sugar beet,Sugar Allergy/ Intolerance
+Plant origin,Vegetables,Sugar sources,Sugarcane,Sugar Allergy/ Intolerance
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Sultani,Legume Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,Sultapya,Legume Allergy
+Plant origin,Nuts and seeds,Oil seeds,Sunflower seeds,Seed Allergy
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Sweet corn,Corn Allergy
+Plant origin,Vegetables,Solanceous vegetables,Sweet Pepper,Nightshade Allergy
+Plant origin,Vegetables,Potatoes,Sweet potato,Potato Allergy
+Plant origin,Vegetables,Potatoes,Taro,Potato Allergy
+Plant origin,Tea,Tea,Tea,Tannin Allergy
+Animal origin,Aquatic animals,Fish,Tetraodontiformes,Fish Allergy
+Plant origin,Vegetables,Solanceous vegetables,Tomato,Nightshade Allergy
+Animal origin,Aquatic animals,Fish,Trout,Fish Allergy
+Animal origin,Aquatic animals,Fish,Tuna,Fish Allergy
+Animal origin,Poultry,"Poultry, edible offals","Turkey, edible offal",Poultry Allergy
+Animal origin,Poultry,"Poultry, fat","Turkey, fat",Poultry Allergy
+Animal origin,Poultry,"Poultry, kidney","Turkey, kidney",Poultry Allergy
+Animal origin,Poultry,"Poultry, liver","Turkey, liver",Poultry Allergy
+Animal origin,Poultry,"Poultry, muscle","Turkey, muscle",Poultry Allergy
+Plant origin,Vegetables,Cruciferous vegetables,Turnip leaves,
+Plant origin,Vegetables,Cruciferous vegetables,Turnip roots,Thyroid
+Plant origin,Nuts and seeds,Oil seeds,Walnut,Nut Allergy
+Plant origin,Vegetables,Cucurbitaceous vegetables,Water melon,
+Plant origin,Vegetables,Cruciferous vegetables,Watercress,
+Plant origin,Vegetables,Liliaceous vegetables,Welsh,Allium Allergy
+Plant origin,Cereal grains and legumes/pulses,Cereal grains,Wheat,Gluten Allergy
+Plant origin,Cereal grains and legumes/pulses,Legumes/pulses,White beans,Legume Allergy
+Plant origin,Vegetables,Potatoes,Yam,Potato Allergy
